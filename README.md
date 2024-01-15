@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently finishing a 5 month intensive Bootcamp on FullStack Web Development in order to get my work life back on track. I am leaving behind 16 years of experience in private security to be able to work in what I like.
+I finished a 6 month intensive Bootcamp on FullStack Web Development in order to get my work life back on track. I am leaving behind 16 years of experience in private security to be able to work in what I like.
 
 I already had previous knowledge, because I developed video games as a hobby, winning several awards in the two Gamejams in which I participated.
 
