@@ -1,7 +1,9 @@
 # 💫 About Me:
-I finished a 6 month intensive Bootcamp on FullStack Web Development in order to get my work life back on track. I am leaving behind 16 years of experience in private security to be able to work in what I like.
+¡Hola! Soy David Gómez Díaz, desarrollador web Full-Stack con más de un año de experiencia profesional. Actualmente trabajo como Front-End Developer en Aracnosoft S.L., donde desarrollo soluciones con Vue 3, WebScrapping y C#. Anteriormente, como freelance, lideré proyectos significativos incluyendo una plataforma de streaming con Angular y Firebase, y aplicaciones educativas con Next.js y React.
 
-I already had previous knowledge, because I developed video games as a hobby, winning several awards in the two Gamejams in which I participated.
+Mi formación comenzó con un Bootcamp intensivo de Full-Stack Web Development (850 horas) financiado por NTT DATA y Factoria F5, y desde entonces he crecido profesionalmente dominando diversas tecnologías. Mi stack tecnológico incluye Angular, React, Vue y Next.js en el front-end, complementado con SpringBoot, Firebase y Laravel en el back-end.
+
+Mi experiencia previa en gestión de equipos, combinada con mi pasión por el desarrollo de videojuegos (con premios en GameJams) y el diseño, me permite aportar una perspectiva única a los proyectos. Mi objetivo es seguir evolucionando profesionalmente, creando soluciones innovadoras y aportando valor significativo a cada proyecto en el que participo.
 
 
 ## 🌐 Socials:
